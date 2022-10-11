@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background: #000;
+}
+
+h1 {
+    font-size: 1.5rem;
+    margin: 10px 0 20px 0;
+    text-align: center;
+    color: red;
+}
+
+p {
+    color: #fff;
+    background-color: #000;
+    width: 550px;
+    padding: 50px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.main{
+    background-image: url(https://miro.medium.com/max/2000/0*eIhVp0KXrXSSHORN.gif);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
